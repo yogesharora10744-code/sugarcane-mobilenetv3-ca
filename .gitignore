@@ -1,0 +1,14 @@
+# Credentials - never commit
+kaggle.json
+.env
+
+# Data and model files
+sugarcane_data/
+*.zip
+*.keras
+*.h5
+*.weights.h5
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
